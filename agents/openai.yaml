@@ -1,0 +1,4 @@
+interface:
+  display_name: "深度学习资料与 HTML 学习室"
+  short_description: "生成有来源、有原理、有真实应用与分层实践的学习资料，并通过 HTML 引导自主学习"
+  default_prompt: "请使用 $deep-learning-room，围绕我指定的主题、基础和关注方向，生成深入的学习资料与 HTML 自学室。"
